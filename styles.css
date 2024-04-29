@@ -1,0 +1,20 @@
+.center {
+    text-align: center;
+    margin-top: 50px; /* Adjust as needed */
+}
+
+#banner {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+#clock {
+    font-size: 36px;
+    font-weight: bold;
+    color: #333; /* Adjust text color */
+    background-color: #f9f9f9; /* Adjust background color */
+    padding: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+}
